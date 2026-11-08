@@ -68,11 +68,17 @@ O conteúdo deste repositório tem finalidade acadêmica e de registro pessoal.
 ## 👥 Autoria
 
 **Fernanda Coutinho Correa Calazans**
-🔗 [GitHub](https://github.com/Ferncout)
+
+<a href="https://github.com/Ferncout"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.simpleicons.org/github/181717" width="28" align="absmiddle" alt="GitHub"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Ferncout">Fernanda Coutinho</a>
+
+<a href="https://www.linkedin.com/in/fernanda-coutinho-a1a97a243"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" align="absmiddle" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/fernanda-coutinho-a1a97a243">Fernanda Coutinho</a>
 
 ### 🤝 Colaborador
 
-Algumas entregas foram desenvolvidas em dupla com **Augusto Lopes Zanotelli**
-🔗 [GitHub](https://github.com/Augusto528)
+**Augusto Lopes Zanotelli**
+
+<a href="https://github.com/Augusto528"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.simpleicons.org/github/181717" width="28" align="absmiddle" alt="GitHub"></picture></a>&nbsp;&nbsp;<a href="https://github.com/USUARIO-DO-AUGUSTO">Augusto Lopes</a>
+
+<a href="https://www.linkedin.com/in/LINKEDIN-DO-AUGUSTO"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" align="absmiddle" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/LINKEDIN-DO-AUGUSTO">Augusto Zanotelli</a>
 
 > A autoria de cada atividade está indicada na tabela de entregas.
