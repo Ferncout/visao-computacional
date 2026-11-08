@@ -59,8 +59,6 @@ pip install numpy opencv-python matplotlib PyQt5
 
 Cada entrega possui seu próprio diretório. Consulte os arquivos de cada pasta para executar o respectivo programa.
 
-> 📝 *Se `assignment_1` e `assignment_2` tiverem scripts principais, vale listar aqui o comando exato, por exemplo `python assignment_1/main.py`.*
-
 ---
 
 ## ⚠️ Observação
